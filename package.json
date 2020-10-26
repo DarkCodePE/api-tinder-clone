@@ -1,0 +1,19 @@
+{
+  "name": "tinder-api",
+  "version": "1.0.0",
+  "description": "tinder-clone-api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkCodePE/api-tinder-clone.git"
+  },
+  "author": "Orlando Kuan B evolutionCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkCodePE/api-tinder-clone/issues"
+  },
+  "homepage": "https://github.com/DarkCodePE/api-tinder-clone#readme"
+}
